@@ -9,5 +9,5 @@ const CONSTANTS = {
 
 // <-- Variable Definition End -->
 
-const file = fs.readFileSync(CONSTANTS.path);
+const file = fs.readFileSync(CONSTANTS.productionFilePath, 'utf8');
 fs.writeFileSync(CONSTANTS.productionFilePath, CONSTANTS.shebang + '\n' + file);

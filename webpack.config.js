@@ -6,6 +6,7 @@ const isProduction = process.env.NODE_ENV == 'production';
 
 const config = {
   entry: './src/index.ts',
+  target: 'node',
   output: {
     path: path.resolve(__dirname, 'bin'),
   },

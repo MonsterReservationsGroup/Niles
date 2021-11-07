@@ -1,0 +1,29 @@
+{
+  "todos": ["Assets", "Fixtures", "Interfaces"],
+  "headed": {
+    "module": {
+      "folders": ["Components", "Hooks", "Store", "Pages", "Fixtures"],
+      "files": [
+        {
+          "name": "PAPI",
+          "template": [""]
+        }
+      ]
+    }
+  },
+  "headless": {
+    "module": {
+      "folders": ["Entrypoints", "Fixtures", "Hooks", "Templates"],
+      "files": [
+        {
+          "name": "PAPI",
+          "template": [""]
+        },
+        {
+          "name": "DVIEW",
+          "template": [""]
+        }
+      ]
+    }
+  }
+}

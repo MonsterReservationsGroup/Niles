@@ -12,18 +12,18 @@ MVP:
         'hello world' for the program.
       @Pcode:
         ✔ set up webpack @done(21-11-06 23:00)
-        [] set up jest
+        ✔ set up jest @started(21-11-06 23:00) @done(21-11-06 23:10) @lasted(10m 12s)
         ✔ set up typescript @done(21-11-06 23:00)
-        [] set up inquierer to ask user for options
-        [] create a component execution path
-        [] set up the cli command to use bin
-        [] find header at that goes at the top of the root file
-        [] write a reducer to handle differnt commands in the future
-        [] set up file with standalone command
-        [] get the package.json
-        [] parse the package.json
-        [] get the version
-        [] return the version
+        ✔ set up inquierer to ask user for options @done(21-11-06 23:50)
+        ✔ create a component execution path @done(21-11-06 23:50)
+        ✔ set up the cli command to use bin @done(21-11-06 23:51)
+        ✔ find header at that goes at the top of the root file @done(21-11-07 00:26)
+        ✔ write a reducer to handle differnt commands in the future @done(21-11-07 00:26)
+        ✔ set up file with standalone command @done(21-11-07 00:26)
+        ✔ get the package.json @done(21-11-07 00:26)
+        ✔ parse the package.json @done(21-11-07 00:26)
+        ✔ get the version @done(21-11-07 00:26)
+        ✔ return the version @done(21-11-07 00:26)
         [] **use chalk to style the output
         [] **use listr to list progress of tasks
         [] **use boxen to draw boxes around the output
@@ -44,10 +44,10 @@ MVP:
         exactly how the syntax goes as well save time.
         @Pcode:
         :::core:::
-          [] loadInquierer
-          [] reduce arguments to a specific execution path
-          [] load previous execution path
-          [] run reduced execution path
+          ✔ loadInquierer @done(21-11-07 00:26)
+          ✔ reduce arguments to a specific execution path @done(21-11-07 00:26)
+          ✔ load previous execution path @done(21-11-07 00:26)
+          ✔ run reduced execution path @done(21-11-07 00:26)
           [] **use chalk to style the output
           [] **use listr to list progress of tasks
           [] **use boxen to draw boxes around the output
