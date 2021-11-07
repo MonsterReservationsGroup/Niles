@@ -11,9 +11,9 @@ MVP:
         This gives the version number of the program as well as serves as a good
         'hello world' for the program.
       @Pcode:
-        [] set up webpack
+        ✔ set up webpack @done(21-11-06 23:00)
         [] set up jest
-        [] set up typescript
+        ✔ set up typescript @done(21-11-06 23:00)
         [] set up inquierer to ask user for options
         [] create a component execution path
         [] set up the cli command to use bin
@@ -35,8 +35,6 @@ MVP:
         none
       @Notes:
         none
-
-        
 
         @Feature: niles create command
 
@@ -69,8 +67,6 @@ MVP:
         none
       @Notes:
         none
-
-
 
 new features go here
 
